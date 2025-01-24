@@ -1,4 +1,4 @@
-# Sensors Module Repository
+# Antenna Module Repository
 
 [![Use Export KiCad Images Workflow](../../actions/workflows/use-export-kicad.yml/badge.svg)](../../actions/workflows/use-export-kicad.yml)
 
