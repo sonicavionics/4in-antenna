@@ -444,7 +444,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sensors.kicad_pro",
+    "filename": "antenna.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -533,7 +533,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../dingboard_solidworks/reference_pcb.step",
+      "step": "../../../../../Desktop/reference2_pcb.step",
       "svg": "",
       "vrml": ""
     },
