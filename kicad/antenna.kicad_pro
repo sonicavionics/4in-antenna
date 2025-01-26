@@ -533,7 +533,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../Desktop/reference2_pcb.step",
+      "step": "../kicad_pcb.step",
       "svg": "",
       "vrml": ""
     },
