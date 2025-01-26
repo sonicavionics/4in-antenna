@@ -1,5 +1,5 @@
 # .github/workflows/use-export-kicad.yml
-name: Call Test2 Reusable Workflow
+name: Export KiCad Images
 
 on:
   push:
